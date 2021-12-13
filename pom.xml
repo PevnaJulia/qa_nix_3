@@ -11,6 +11,7 @@
     <modules>
         <module>hw_1</module>
         <module>hwnew_2</module>
+        <module>hw_3</module>
     </modules>
 
     <properties>
